@@ -1,3 +1,5 @@
+2026-02-13. 학습 목적 수입
+
 # minimalRL-pytorch
 
 Implementations of basic RL algorithms with minimal lines of codes! (PyTorch based)
